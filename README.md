@@ -1,4 +1,4 @@
-## AIML like api in your app from [All the things that comprehend rekognition textract polly transcribe and others do](https://github.com/build-on-aws/all-the-things-that-comprehend-rekognition-textract-polly-transcribe-and-others-do)
+## AIML like an API in your app from [All the things that comprehend rekognition textract polly transcribe and others do](https://github.com/build-on-aws/all-the-things-that-comprehend-rekognition-textract-polly-transcribe-and-others-do)
 
 Here you can find the steps to create the following solutions:
 
