@@ -1,4 +1,6 @@
-## AIML like an API in your app from [All the things that Amazon Comprehend, Amazon Rekognition, Amazon Textract, Amazon Polly, Amazon Transcribe and others do](https://github.com/build-on-aws/all-the-things-that-comprehend-rekognition-textract-polly-transcribe-and-others-do)
+## AIML like an API in your app
+
+Based on the post [All the things that Amazon Comprehend, Amazon Rekognition, Amazon Textract, Amazon Polly, Amazon Transcribe and others do](https://buildon.aws/posts/all-the-things-that-comprehend-rekognition-textract-polly-transcribe-and-others-do)
 
 Here you can find the steps to create the following solutions:
 
