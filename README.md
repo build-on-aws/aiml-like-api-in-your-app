@@ -1,10 +1,10 @@
-## AIML like an API in your app from [All the things that comprehend rekognition textract polly transcribe and others do](https://github.com/build-on-aws/all-the-things-that-comprehend-rekognition-textract-polly-transcribe-and-others-do)
+## AIML like an API in your app from [All the things that Amazon Comprehend, Amazon Rekognition, Amazon Textract, Amazon Polly, Amazon Transcribe and others do](https://github.com/build-on-aws/all-the-things-that-comprehend-rekognition-textract-polly-transcribe-and-others-do)
 
 Here you can find the steps to create the following solutions:
 
 - [Create subtitles and translate them into the language you want ⏯️ 🍿.](create-subtitles-and-translate-them-into-the-language-you-want/README.md)
 
-![Create subtitles and translate them into the language you want"](images/create-subtitles-and-translate-s.png)
+![Create subtitles and translate them into the language you want](images/create-subtitles-and-translate-s.png)
 
 - [Detecting entities and sentiment from a document 🔎 📄. ](detecting-entities-and-sentiment-from-a-document/detecting-entities-and-sentiment-from-a-document.ipynb)
 
@@ -12,7 +12,7 @@ Here you can find the steps to create the following solutions:
 
 - [Make Polly Talk 🦜](make-polly-talk/make-polly-talk.ipynb) 
 
-![Make Polly Talk"](images/make-polly-talk.png)
+![Make Polly Talk](images/make-polly-talk.png)
 
 - [Video content moderation ⏯️ 🔫 🚬]((video-content-moderation/README.md) )
 
